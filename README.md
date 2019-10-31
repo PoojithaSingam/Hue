@@ -5,7 +5,7 @@
   * Poojitha Singam
   * Divya Harshini Bheemireddy
   * Gangadhar Adusumalli
-  ![](https://github.com/PoojithaSingam/Hue/blob/master/images/Screenshot%20(73).png)
+  ![](https://github.com/PoojithaSingam/Hue/blob/master/images/Screenshot%20(73).JPG)
   ## About our workshop
   Through this workshop we will demonstrate how to mapreduce big data tables through Hive using "Hue".
   ## Get Started
