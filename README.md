@@ -10,6 +10,7 @@
   Through this workshop we will demonstrate how to mapreduce big data tables through Hive using "Hue".
   ## Get Started
   * Open cloudera Virtual machine and launch hue UI from browser
+  
   ![](https://github.com/PoojithaSingam/Hue/blob/master/images/launchHue.PNG)
   * We can also host hue locally on our local machines
    ![](https://github.com/PoojithaSingam/Hue/blob/master/images/canalsohosthuelocally.PNG)
